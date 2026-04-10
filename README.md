@@ -40,7 +40,8 @@ For use with [Claude Code](https://claude.ai/code) (Anthropic).
 
 | File | Version | Notes |
 |------|---------|-------|
-| [Claude Code Genesis Protocol v1.0.md](Claude%20Code%20Genesis%20Protocol%20v1.0.md) | v1.0 | Current |
+| [Claude Code Genesis Protocol v1.1.md](Claude%20Code%20Genesis%20Protocol%20v1.1.md) | v1.1 | Current |
+| [Claude Code Genesis Protocol v1.0.md](Claude%20Code%20Genesis%20Protocol%20v1.0.md) | v1.0 | |
 
 **Agent config directory:** `.claude/`
 **Rules:** `CLAUDE.md` (loaded automatically every session)
